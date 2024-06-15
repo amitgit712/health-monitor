@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Install Dependencies
 
 Navigate to the root directory of your project, where the package.json file is located.
-Run the command npm install to install all dependencies.
+Run the command `npm install` to install all dependencies.
 
 ## Development server
 
