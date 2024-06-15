@@ -1,0 +1,12 @@
+.sidebar-link {
+    color: #1F2937;
+  }
+
+  .sidebar-link:hover {
+    background-color: #1F2937;
+    color: white;
+  }
+.sidebar-link.active {
+    background-color: #1F2937;
+    color: white;
+}
